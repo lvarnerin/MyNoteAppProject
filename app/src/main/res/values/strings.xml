@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyNoteAppProject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dbopen_helper">DBOpenHelper</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
